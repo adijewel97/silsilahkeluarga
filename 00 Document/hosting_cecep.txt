@@ -1,0 +1,6 @@
+
+-- hosting
+ftp 		--> ftp.acepsopian.com
+hosting		--> http://srv23.niagahoster.com:2082/
+user 		--> u4174588
+psw  		--> rahasia
